@@ -7,7 +7,7 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
 
 
 # Code Snapshots and Results:
-  * generate the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
+  * generate the `mean, median, variance, standard deviation, and SEM` of the tumor volume for each drug regimen.
   <kbd>![image](https://user-images.githubusercontent.com/24882457/169530329-a908d613-3af7-4dd8-9573-bfb0064a8b66.png)</kbd>
 
   * 
