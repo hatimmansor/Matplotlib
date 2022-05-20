@@ -2,10 +2,6 @@
 I have analyzed a complete dataset from Mockaroo (2021) most recent animal study. In this study, there are 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. I have generated all of the tables and figures needed for the technical report (scenario) of the study. The proposed executive team also has asked for a top-level summary of the study results.
 
 
-# Data Source:
-Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-
 # Code Snapshots and Results:
   * The `mean, median, variance, standard deviation, and SEM` of the tumor volume for each drug regimen.<br>
   <kbd><img src="https://user-images.githubusercontent.com/24882457/169530329-a908d613-3af7-4dd8-9573-bfb0064a8b66.png" width=400></kbd>
@@ -18,6 +14,10 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
   
   * `Correlation and Regression:` Calculate the correlation coefficient and `linear regression` model between mouse weight and average tumor volume for the Capomulin treatment. Ploting the linear regression model on top of the previous scatter plot.<br>
 <kbd><img src="https://user-images.githubusercontent.com/24882457/169538766-7770a0d9-fad3-4303-a53f-7daa63016e12.png" width=400></kbd>
+
+
+# Data Source:
+Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
 
 
 # Contact:
