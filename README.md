@@ -11,13 +11,13 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
   <kbd><img src="https://user-images.githubusercontent.com/24882457/169530329-a908d613-3af7-4dd8-9573-bfb0064a8b66.png" width=400></kbd>
 
   * The total number of timepoints `plot` for all mice tested for each drug regimen throughout the course of the study.
-  <kbd>![output fig 2](https://user-images.githubusercontent.com/24882457/169536395-7474f0ed-9b6d-4396-86df-34e621522c73.png)</kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/24882457/169536395-7474f0ed-9b6d-4396-86df-34e621522c73.png" width=400></kbd>
   
   * Using Matplotlib, I have generated a box and whisker plot of the final tumor volume for all four treatment regimens, highlighted any potential outliers in the plot by changing their color and style.<br>
-  <kbd>![Quartiles ](https://user-images.githubusercontent.com/24882457/169536873-3d0c8c14-d934-4c47-900e-caded6ea0644.png)</kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/24882457/169536873-3d0c8c14-d934-4c47-900e-caded6ea0644.png" width=400></kbd>
   
   * `Correlation and Regression:` Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Ploting the linear regression model on top of the previous scatter plot.
-<kbd>![regression](https://user-images.githubusercontent.com/24882457/169538766-7770a0d9-fad3-4303-a53f-7daa63016e12.png)</kbd>
+<kbd><img src="https://user-images.githubusercontent.com/24882457/169538766-7770a0d9-fad3-4303-a53f-7daa63016e12.png" width=400></kbd>
 
 
 # Contact:
